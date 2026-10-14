@@ -8,7 +8,7 @@ This repo is generated from the Pinafly app. Do not edit it by hand.
 ## Claude Code
 
 ```
-claude plugin marketplace add pinafly/agent
+claude plugin marketplace add vladiim/agent
 claude plugin install pinafly@pinafly          # review: /pinafly:uat, /pinafly:fix, /pinafly:wait
 claude plugin install pinafly-guides@pinafly   # guides: /pinafly-guides:guide, /pinafly-guides:write
 ```
@@ -22,7 +22,7 @@ Install `pinafly` (review) and `pinafly-guides` from the Cursor marketplace, or 
 ## Gemini CLI
 
 ```
-gemini extensions install https://github.com/pinafly/agent
+gemini extensions install https://github.com/vladiim/agent
 ```
 
 Installs the review server (UAT). Guides are not packaged for Gemini yet; use the MCP URL below.
