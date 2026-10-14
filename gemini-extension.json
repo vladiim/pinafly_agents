@@ -1,0 +1,9 @@
+{
+  "name": "pinafly",
+  "version": "0.1.0",
+  "description": "Your agent writes a UAT. You walk it and pin problems. It reads and fixes them. You verify.",
+  "mcpServers": {
+    "pinafly": { "httpUrl": "https://pinafly.com/mcp/uat" }
+  },
+  "contextFileName": "GEMINI.md"
+}

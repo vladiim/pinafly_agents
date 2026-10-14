@@ -1,0 +1,8 @@
+{
+  "name": "pinafly",
+  "displayName": "Pinafly UAT",
+  "version": "0.1.0",
+  "description": "Your agent writes a UAT. You walk it and pin problems. It reads and fixes them. You verify.",
+  "author": { "name": "Pinafly" },
+  "keywords": ["uat", "review", "feedback", "qa", "mcp"]
+}

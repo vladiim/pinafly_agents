@@ -1,0 +1,10 @@
+{
+  "name": "pinafly",
+  "version": "0.1.0",
+  "description": "Your agent writes a UAT. You walk it and pin problems. It reads and fixes them. You verify.",
+  "homepage": "https://pinafly.com",
+  "author": { "name": "Pinafly", "url": "https://pinafly.com" },
+  "mcpServers": {
+    "pinafly": { "type": "http", "url": "https://pinafly.com/mcp/uat" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pinafly-guides",
+  "version": "0.1.0",
+  "description": "Your agent walks you through any tool, one step at a time, on the real screens.",
+  "homepage": "https://pinafly.com",
+  "author": { "name": "Pinafly", "url": "https://pinafly.com" },
+  "mcpServers": {
+    "pinafly-guides": { "type": "http", "url": "https://pinafly.com/mcp/guides" }
+  }
+}

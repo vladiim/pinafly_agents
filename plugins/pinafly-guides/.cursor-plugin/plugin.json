@@ -1,0 +1,8 @@
+{
+  "name": "pinafly-guides",
+  "displayName": "Pinafly Guides",
+  "version": "0.1.0",
+  "description": "Your agent walks you through any tool, one step at a time, on the real screens.",
+  "author": { "name": "Pinafly" },
+  "keywords": ["guides", "how-to", "walkthrough", "mcp"]
+}

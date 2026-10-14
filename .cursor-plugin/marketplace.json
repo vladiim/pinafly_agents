@@ -1,0 +1,20 @@
+{
+  "name": "pinafly",
+  "owner": { "name": "Pinafly" },
+  "metadata": {
+    "description": "Pinafly for coding agents: review what your agent built, and be guided through any tool.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pinafly",
+      "source": "./plugins/pinafly",
+      "description": "Your agent writes a UAT. You walk it and pin problems. It reads and fixes them. You verify."
+    },
+    {
+      "name": "pinafly-guides",
+      "source": "./plugins/pinafly-guides",
+      "description": "Your agent walks you through any tool, one step at a time, on the real screens."
+    }
+  ]
+}
